@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": {"model": "gothic:block/zircon_lamp_on"},
+    "lit=false": {"model": "gothic:block/zircon_lamp_off"}
+  }
+}

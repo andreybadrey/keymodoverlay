@@ -1,0 +1,17 @@
+{
+  "item.gothic.zircon" : "Цирконий",
+  "item.gothic.raw_zircon" : "Кусок циркония",
+  "item.gothic.eight_ball" : "Шар",
+  "item.gothic.chomper_spawn_egg" : "Шомпер",
+
+  "block.gothic.zircon_block": "Цирконевый блок",
+  "block.gothic.jumpy_block": "Батут",
+  "block.gothic.zircon_lamp": "Лампа",
+
+  "key.category.gothic.gothic_mod": "Gothic Mod",
+
+  "key.gothic.drink_water": "Пить воду",
+
+  "itemGroup.mod_tab": "Вкладка",
+  "itemGroup.mod_mobs": "Мобы"
+}
